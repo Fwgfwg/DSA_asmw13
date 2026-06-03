@@ -29,10 +29,3 @@ Cây bị lệch hoàn toàn thành một danh sách liên kết. Khi đó phả
 
 * Độ phức tạp: O(n)
 
-# Kết luận
-
-Độ phức tạp của thuật toán tìm kiếm trên cây nhị phân tìm kiếm (BST):
-
-* Tốt nhất: O(1)
-* Trung bình: O(log n)
-* Xấu nhất: O(n)
