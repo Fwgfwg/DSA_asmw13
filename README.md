@@ -2,9 +2,9 @@
 
 Thuật toán tìm kiếm trên cây nhị phân tìm kiếm hoạt động bằng cách so sánh giá trị cần tìm với giá trị tại nút hiện tại:
 
-* Nếu bằng nhau → tìm thấy.
-* Nếu nhỏ hơn hoặc bằng → tiếp tục tìm ở cây con bên trái.
-* Nếu lớn hơn → tiếp tục tìm ở cây con bên phải.
+* Nếu bằng nhau => tìm thấy.
+* Nếu nhỏ hơn hoặc bằng => tiếp tục tìm ở cây con bên trái.
+* Nếu lớn hơn => tiếp tục tìm ở cây con bên phải.
 
 # Trường hợp tốt nhất
 
